@@ -20,6 +20,10 @@ public class Date {
   private final int month;
   private final int year;
 
+// Owner is Jorge Gómez Requerey
+  public void methodAddedByOwner(){
+    System.out.println("Method addded by the owner");
+  }
   /**
    * Retrieves the day component of this date.
    *
