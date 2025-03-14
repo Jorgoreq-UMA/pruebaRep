@@ -16,9 +16,9 @@ import java.text.SimpleDateFormat;
  * month, and year values cannot be changed.
  */
 public class Date {
-  private final int day;
-  private final int month;
-  private final int year;
+  private final int tag;
+  private final int monat;
+  private final int jahr;
   private boolean cambio;
 
 // Owner is Jorge Gómez Requerey
